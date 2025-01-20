@@ -1,0 +1,29 @@
+#header {
+  width: 200vh;
+}
+
+#header-left h3 {
+  position: absolute;
+  margin-left: 160px;
+  margin-top: -100px;
+  width: 400px;
+}
+#header-inner {
+  margin-top: 20px;
+}
+#header-right {
+  position: relative;
+  margin-right: 0px;
+  align-items: right;
+  margin-top: 20px;
+}
+.vertical-line {
+  border: 1px dashed #dedede;
+  float: right;
+  height: 150px;
+  margin-right: 330px;
+}
+nav {
+  background-color: #55cfff;
+  height: 80px;
+}
